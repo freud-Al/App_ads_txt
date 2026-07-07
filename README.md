@@ -1,1 +1,1 @@
-google.com, pub-8155714004404092, DIRECT, f08c47fec0942fa0
+read
